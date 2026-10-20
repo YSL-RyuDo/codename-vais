@@ -26,7 +26,7 @@
 
 キャラクター・武器・標的設定が訓練内容と記録条件を決めます。
 
-[プレイ動画を見る](https://ysl-ryudo.github.io/ja/work/vector/#gameplay), CodeName VAISの射撃訓練場、YSLブランチ、53秒。2026年10月20日にUnity内の自動入力で収録。
+[プレイ動画を見る](https://ysl-ryudo.github.io/ja/work/vector/#gameplay), CodeName VAISの射撃訓練場、YSLブランチ、53秒。2026年10月20日の実行画面。
 
 ## ゲーム全体で担当した実装
 

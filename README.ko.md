@@ -26,7 +26,7 @@
 
 캐릭터와 무기, 표적 설정이 훈련 내용과 기록 조건을 결정합니다.
 
-[플레이 영상 보기](https://ysl-ryudo.github.io/ko/work/vector/#gameplay), CodeName VAIS 사격 훈련장, YSL 브랜치, 53초. 2026년 10월 20일 Unity에서 자동 입력으로 녹화했습니다.
+[플레이 영상 보기](https://ysl-ryudo.github.io/ko/work/vector/#gameplay), CodeName VAIS 사격 훈련장, YSL 브랜치, 53초. 2026년 10월 20일 실행 화면입니다.
 
 ## 게임 전체에서 맡은 구현
 

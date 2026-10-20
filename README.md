@@ -26,7 +26,7 @@ Moving-target practice uses the gameplay weapon, recoil and ammunition paths.
 
 Character, weapon and target settings determine the training session and its record conditions.
 
-[Watch gameplay](https://ysl-ryudo.github.io/en/work/vector/#gameplay), CodeName VAIS practice range, YSL branch, 0:53. Recorded in Unity with scripted inputs on 20 October 2026.
+[Watch gameplay](https://ysl-ryudo.github.io/en/work/vector/#gameplay), CodeName VAIS practice range, YSL branch, 0:53. Captured in Unity on 20 October 2026.
 
 ## What I built across the game
 
